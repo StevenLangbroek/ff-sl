@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-http-proxy": "^1.1.0",
+    "flow-bin": "^0.68.0",
+    "lodash": "^4.17.5",
+    "next": "^5.0.0",
+    "qs": "^6.5.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "scripts": {
+    "dev": "node server.js",
+    "start": "next start",
+    "build": "next build"
+  }
+}
